@@ -1,4 +1,4 @@
 # helios
 This is first repository
 <br>
-Author - Rishabh
+Author - Rishabh Jain
